@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Shapefile" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
